@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonForm.Форма" id="7a63d0fd-57b7-43f0-9cc5-9a2756317af0" configVersion="276f14ac618af54ebc62553cb2300b3b00000000"/>
+		<Metadata name="CommonForm.Форма.Form" id="7a63d0fd-57b7-43f0-9cc5-9a2756317af0.0" configVersion="794881bbce636e4794935d1b6ff14bae00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияSentry" id="1255134c-0239-41d7-ae0e-abfeec62883a" configVersion="87b653bb264f1b45a788ffbe61c7cb4300000000"/>
+		<Metadata name="CommonModule.ИнтеграцияSentry.Module" id="1255134c-0239-41d7-ae0e-abfeec62883a.0" configVersion="c15d247036b3794d9fa9b119c89bff0300000000"/>
+		<Metadata name="Configuration.Configuration" id="adfcf43a-d70e-413c-a090-18982a6fdc8f" configVersion="9caa2b75cc01f2469bef412d376488cd00000000"/>
+		<Metadata name="Configuration.Configuration.HomePageWorkArea" id="76dad22d-b364-4636-aa47-6703c84e21fc.8" configVersion="d3de14d3af29a841973f8bee15b896f000000000"/>
+		<Metadata name="DataProcessor.Калькулятор" id="37e96f81-69d4-4118-ba06-647b4b40c7a0" configVersion="d269e6799357124c87c0d67484c5673200000000"/>
+		<Metadata name="DataProcessor.Калькулятор.ObjectModule" id="37e96f81-69d4-4118-ba06-647b4b40c7a0.0" configVersion="53a2f8c35a7bb341a4020802defd2e3c00000000"/>
+		<Metadata name="Language.English" id="b1a55aef-fb13-4cf4-a60a-cfe70c200f80" configVersion="9b5bb6b71e1a4e46852660177405aa9200000000"/>
+		<Metadata name="Role.ПолныеПрава" id="1a4c509b-8ad8-4e55-9a2b-db22bbb865a0" configVersion="30af544b252c1442b43e0c28c3c92e0200000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="1a4c509b-8ad8-4e55-9a2b-db22bbb865a0.0" configVersion="b3bc4596653798459c7e30d521f1d8ed00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
